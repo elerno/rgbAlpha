@@ -1,0 +1,7 @@
+Reiniciar mysql
+	sudo systemctl restart mysql.service
+
+Configurar DB para recibir conexiones externas:
+
+	https://mariadb.com/kb/en/mariadb/configuring-mariadb-for-remote-client-access/
+

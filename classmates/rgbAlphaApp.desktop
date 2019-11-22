@@ -1,0 +1,10 @@
+<[Desktop Entry]
+Type=Application
+Name=rgbAlphaApp
+GenericName=rgbAlpha app
+Comment= rgbAlpha
+Exec=/home/rgbalpha/rgbAlphaApp/rgbAlphaApp
+Icon=none
+Terminal=false
+Categories=Art;
+MimeType=text/x-arduino

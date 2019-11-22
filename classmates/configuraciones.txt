@@ -1,0 +1,12 @@
+	
+Levanté la red inalámbrica ad-hoc con:
+	https://wiki.debian.org/WiFi/AdHoc
+	El archivo de configuración está en esta carpeta, y se llama "interfaces"
+	Se debe poner en /etc/network/
+Para que los clientes inicien automáticamente:
+	Poner rgbAlphaClient.desktop en ~/.local/share/applications/
+	gnome-tweak-tool, agregar a applicaciones de inicio.
+	
+Sript /etc/ifdownup.sh
+	sudo chmod a+rx /etc/ifdownup.sh
+

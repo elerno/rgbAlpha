@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=rgbAlphaClient
+GenericName=rgbAlpha client
+Comment= rgbAlpha
+Exec=/home/cliente5/rgbAlpha/processing/rgbAlphaCliente/application.linux64/rgbAlphaCliente
+Icon=none
+Terminal=false
+Categories=Art;
+MimeType=text/x-arduino
